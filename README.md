@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # my-vue1
 
 > demo
@@ -24,3 +25,6 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 # vue-resume
 一个在线简历编辑器
 >>>>>>> 8ab651712a8af45ad19e0bbf7cc9ed74d251bc37
+=======
+# resume
+>>>>>>> 3cda5a1bd8f48eb9000511cb6ca2fdf1c9b292c3
