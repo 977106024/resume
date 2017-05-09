@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <<<<<<< 4a98372c9b49d44f405c0582f97b9539256ef7b5
 # resume.github.io
 =======
+=======
+>>>>>>> efe9b814d3fdd97398cb6d4805fb11e282dc6913
 <<<<<<< HEAD
 <<<<<<< HEAD
 # my-vue1
@@ -31,4 +34,7 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 =======
 # resume
 >>>>>>> 3cda5a1bd8f48eb9000511cb6ca2fdf1c9b292c3
+<<<<<<< HEAD
 >>>>>>> vue
+=======
+>>>>>>> efe9b814d3fdd97398cb6d4805fb11e282dc6913
