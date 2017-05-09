@@ -64,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/config/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -176,8 +176,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="263" />
-    <option name="y" value="390" />
+    <option name="x" value="260" />
+    <option name="y" value="298" />
     <option name="width" value="1485" />
     <option name="height" value="1032" />
   </component>
@@ -334,15 +334,15 @@
       <workItem from="1494321059365" duration="4646000" />
       <workItem from="1494344496824" duration="35000" />
       <workItem from="1494351697069" duration="621000" />
-      <workItem from="1494358387842" duration="53000" />
+      <workItem from="1494358387842" duration="693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227415000" />
+    <option name="totallyTimeSpent" value="228055000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="263" y="390" width="1485" height="1032" extended-state="0" />
+    <frame x="260" y="298" width="1485" height="1032" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18624045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -727,7 +727,7 @@
     <entry file="file://$PROJECT_DIR$/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
           <folding />
         </state>
       </provider>
